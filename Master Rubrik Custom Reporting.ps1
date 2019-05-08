@@ -25,7 +25,7 @@
 ##################################
 # Global settings file location
 ##################################
-$ScriptDirectory = "C:\Users\darren.swift.ZERTO\Documents\GitHub\Swifty Rubrik Scripts\WTW_Reports\"
+$ScriptDirectory = "Directory Location"
 ################################################
 # Nothing to configure below this line - Starting the main function of the script
 ################################################
